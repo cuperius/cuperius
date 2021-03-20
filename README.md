@@ -34,5 +34,5 @@ The following is a list of the courses for which I have been a teaching assisten
 5. ODEs and the Multidimensional Riemann Integral
 6. Functional Analysis
 7. Measure and Integration Theory and ODEs
-8. Function Theory
+8. Complex Analysis
 9. Forcing
